@@ -23,7 +23,7 @@ log using "$ROOT\log\trainer_survey_analysis_`c(current_date)'", text replace
 
 // Program Settings 
 	global SOURCE "<source file name>.csv"
-	global OUTPUT "TDTS - JULY Session (Part A) - Analysis Output - 20160718.xlsx"
+	global OUTPUT "tdts_demo_output.xlsx"
 	global CONTENT_VARS trainingPreparedMe effectiveMaterials ///
 		increasedKnowledge teachingOthers changedApproach
 	global QUALITY_VARS materialsQuality trainingPace presenterProficiency ///
