@@ -16,4 +16,7 @@ This script was written specifically for a project and it adheres to a specific 
 is not intended to be used as a module. Rather, I intend this to serve as a demonstration of some of my analysis work in 
 Stata. 
 
+#Sample Output 
+I have provided a file called "tdts_demo_output.xlsx" to demonstrate what the file analysis files look like. Note, the 
+data in this demo will not make sense. This is because I purposely distorted the numbers to the data from the real analysis files. This file is just meant to show how the analysis output is structured by the script.
 
