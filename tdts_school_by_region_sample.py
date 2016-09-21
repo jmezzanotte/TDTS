@@ -37,9 +37,9 @@ col_labels_v2= {
 
 
 sources = {
-            'Sample file v4_11072016.xlsx' : {'labels' : col_labels_v1, 'data' : None}, 
-            'Additional cases Sample file_14072016.xlsx' : {'labels' : col_labels_v2, 'data' : None}, 
-            'Sample file batch 3_21072016.xlsx' : {'labels' : col_labels_v2, 'data' : None}
+            'data1.xlsx' : {'labels' : col_labels_v1, 'data' : None}, 
+            'data2.xlsx' : {'labels' : col_labels_v2, 'data' : None}, 
+            'data3.xlsx' : {'labels' : col_labels_v2, 'data' : None}
          }
 
             
