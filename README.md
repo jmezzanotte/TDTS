@@ -21,7 +21,7 @@ data in this demo will not make sense. This is because I purposely distorted the
 #tdts_tcr_sch_region_master.py
 Python script written using Pandas,  to append and merge several demographic files into a single master dataset. 
 
-$tdts_tchr_sch_region_master_output.csv
+tdts_tchr_sch_region_master_output.csv
 This is the output produced by the tdts_tchr_sch_region_master.py file. This the final produced of the appended and merged datasets. Here is a brief summary of what the Python file appended and merged to produce this master file: 
 First, there were three seperate files with the sch_num, sch_name,	sch_region,and group variables. These three separate files needed to be appended or stacked on top of each other in order to produce a single master file with all needed information. Next there were a series of 7 files each containing the information for num_tchrs, group and fsm_pct. This information needed to be merged to the data we appended by sch_num. So in the end we pulled together all key district and school demographic information, that was previously spread across 10 separate files into a single master dataset.
 
