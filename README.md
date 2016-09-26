@@ -1,5 +1,5 @@
 # Thinking, Doing, Talking Science 
-This repo contains several programs I wrote to automate several survey adminstration tasks on a research and evaluation project I served on. There are 3 scripts (note, some code has been changed or removed to clear any identifying information, however, these modification do not affect the integrity of the code.): 
+This repo contains several programs I wrote to automate several survey adminstration tasks on a research and evaluation project I served on. There are 3 scripts contained here as well as samples of the output they produced (note, some code has been changed or removed to clear any identifying information, however, these modification do not affect the integrity of the code.): 
 - tdts_trainer_survey_analysis.do
 - tdts_tcr_sch_region_master.py 
 - tdts_response_rates.do   
