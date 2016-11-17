@@ -25,6 +25,7 @@ Python script written using Pandas,  to append and merge several demographic fil
 Sometime in Stata, I need to take a really long list of variables and map some renaming code. Usually I copy and paste the varlist from Stata and want to complete the mapping in excel. However, when copying from Stata, the list becomes one long space separated string. When pasting this into word, a text doc, or excel, the data will not separate into separate rows. This becomes a lot of manual work. I wrote this python script to take that long space separated string, split it into a list, then write that list to a .csv file. There is one method in this script called varlist_string_to_csv and it takes two arguments a source file and outfile. This is a very simple scriopt at this point and only works with .txt files. 
 
 ***def varlist_sstring_to_csv(infile, outfile)***
+
 ***infile***: Full path to source file. Must be a .txt file
 ***outfile***:Full path to output file. Will output to a .csv file. 
 
